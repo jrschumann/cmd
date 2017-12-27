@@ -5,9 +5,6 @@
 **Control Spotify Connect devices with Alexa**
 
 ## Alexa Skill Store
-**UK**: https://www.amazon.co.uk/Lawrence-Thorpe-Connect-Control-Spotify/dp/B074KFNWFD  
-**US**: https://www.amazon.com/Lawrence-Thorpe-Connect-Control-Spotify/dp/B074KFNWFD
-
 ## Contribution
 The utility script `skill.js` is provided to generate the intent schema and sample utterances from source
 
